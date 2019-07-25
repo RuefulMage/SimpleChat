@@ -1,2 +1,2 @@
 # SemestrWork-2
-Simple Chat
+Simple Chat on Java using Sockets
